@@ -6,6 +6,13 @@
 * [Express] (https://expressjs.com/)
 * [Bootstrap-3] (https://getbootstrap.com/docs/3.3/)
 
+## NPM packages used
+
+* [express]
+* [ejs]
+* [nodemon]
+* [request]
+
 ## API used
 
 * [https://pokeapi.co/api/v2/pokemon/1]
@@ -17,5 +24,11 @@
 3. Install npm ```npm i```
 4. Run the app ```npm start```
 
+## Author
+* Safat Alnur(https://github.com/safatalnur) 
+
+## Acknowledgments
+[@GeneralAssembly](https://generalassemb.ly/)
+[https://pokeapi.co/api/v2/pokemon/1] (https://docs.github.com/en/free-pro-team@latest/rest)
 
 
